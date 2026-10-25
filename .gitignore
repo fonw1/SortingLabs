@@ -1,0 +1,6 @@
+out/
+build/
+.vs/
+x64/
+Debug/
+Release/
